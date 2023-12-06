@@ -1,5 +1,5 @@
 # Recode-pro-3-modulo-4
-<h1>Criado banco para facilitamento para realizar testes no projeto JSP . utilizando JAVA </h1>
+<h1>Criado banco para facilitamento para realizar testes no projeto JSP . utilizando MySQL </h1>
 
 <hr>
 

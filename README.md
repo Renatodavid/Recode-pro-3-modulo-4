@@ -3,21 +3,20 @@
 
 <hr>
 
-[Uploading age<br>CREATE DATABASE agenciaviagensfinal; <br>
-USE agenciaviagensfinal;<br>
-CREATE TABLE usuario (<br>
-usuarioId  INTEGER PRIMARY KEY auto_increment  ,<br>
-primeiroNome VARCHAR(100),<br>
-email VARCHAR(100),<br>
-senha VARCHAR(45),<br>
-celular VARCHAR(15),<br>
-rgCpf VARCHAR(11),<br>
-confirmeSenha VARCHAR(100),<br>
-genero VARCHAR(50)<br>
+<br>CREATE DATABASE agenciaviagensfinal; <br>
+|   USE agenciaviagensfinal;<br>
+|   CREATE TABLE usuario (<br>
+|   usuarioId  INTEGER PRIMARY KEY auto_increment  ,<br>
+|   primeiroNome VARCHAR(100),<br>
+|   email VARCHAR(100),<br>
+|    senha VARCHAR(45),<br>
+|    celular VARCHAR(15),<br>
+|    rgCpf VARCHAR(11),<br>
+|    confirmeSenha VARCHAR(100),<br>
+|      genero VARCHAR(50)<br>
 );<br>
 
 
-nciaviagensfinal.sql…]()<br>
 
 <hr>
 
